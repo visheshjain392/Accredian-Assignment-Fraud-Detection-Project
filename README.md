@@ -1,6 +1,12 @@
 # Accredian-Assignment-Fraud-Detection-Project
 Financial Fraud Detection using Machine Learning on 6.3M transactions with data analysis, feature engineering, and business-driven fraud prevention insights.
 
+## Dataset
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download it here:
+[Download Dataset](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+
 Financial Fraud Detection Using Machine Learning
 📌 Project Overview
 
