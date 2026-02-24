@@ -7,7 +7,12 @@ Due to GitHub file size limitations, the dataset is not included in this reposit
 You can download it here:
 [Download Dataset](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
 
+Please follow the steps below to set up the dataset correctly before running the notebook:
+Download the dataset from the link provided below.
+After downloading, create a folder named data inside the project directory.
+Place the downloaded fraud.csv file inside the data folder.
 Financial Fraud Detection Using Machine Learning
+
 📌 Project Overview
 
 This project focuses on detecting fraudulent financial transactions using machine learning techniques. The goal is to analyze transaction behavior and build a predictive model that helps financial institutions identify fraud proactively.
